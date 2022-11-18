@@ -7,5 +7,6 @@ public class Principal {
         int num = sc.nextInt();
 
         System.out.println("O numero digitado foi " + num);
+        System.out.println("teste");
     }
 }
